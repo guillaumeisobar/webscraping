@@ -1,2 +1,2 @@
 # webscraping
-des portions de code /webscraping
+des portions de python /webscraping
